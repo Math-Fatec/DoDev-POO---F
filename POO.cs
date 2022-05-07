@@ -18,10 +18,10 @@ using System;
 
         public class Formaçao
         {
-            public String Descriçao{get;set;}
-            public INT Periodo{get;set;}
-            public Double Mensalidade{get;set;}
-            public INT Duraçao{get;set;}
+            public string Descriçao {get;set;}
+            public int Periodo {get;set;}
+            public double Mensalidade {get;set;}
+            public int Duraçao {get;set;}
 
             DefinirDuraçao();
 
